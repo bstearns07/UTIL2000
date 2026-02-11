@@ -17,11 +17,12 @@ For every run, the program will:
   3. Calculate the customer's bill based on what tier of electricity they used
   4. Output the results into a final summary report for all 3 customers
 
-For full program details, see <a href="https://github.com/bstearns07/CALC2000/blob/main/assets/AssignmentRequirements.pdf">Program Requirements</a>
+For full program details, see <a href="https://github.com/bstearns07/UTIL2000/blob/main/assets/AssignmentRequirements.pdf">Program Requirements</a>
 ## Screenshots
 
 ### Output
-![Output](assets/output.png)
+![Output](assets/output_topHalf.png)
+![Output](assets/output_bottomHalf.png)
 
 ## Topics Covered
 1. Developing COBOL programs for the mainframe environment
@@ -29,9 +30,8 @@ For full program details, see <a href="https://github.com/bstearns07/CALC2000/bl
 3. Loops
 4. Formatted output generation
 5. Division Structure
-6. Comments and header documentation
-7. MOVE, COMPUTE, DISPLAY, UNTIL statements
-8. PICTURE statements
+6. MOVE, COMPUTE, DISPLAY, UNTIL statements
+** 7. Program was build entirely in the mainframe without IDE support
 
 ## Maintainers
 [@bstearns07](https://github.com/bstearns07) Ben Stearns
