@@ -17,7 +17,7 @@ For every run, the program will:
   3. Calculate the customer's bill based on what tier of electricity they used
   4. Output the results into a final summary report for all 3 customers
 
-For full program details, see <a href="https://github.com/bstearns07/UTIL2000/blob/main/assets/AssignmentRequirements.pdf">Program Requirements</a>
+For full program details, see <a target="_blank" href="https://github.com/bstearns07/UTIL2000/blob/main/assets/AssignmentRequirements.pdf">Program Requirements</a>
 ## Screenshots
 
 ### Output
