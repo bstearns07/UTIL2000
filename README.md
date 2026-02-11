@@ -31,7 +31,7 @@ For full program details, see [Program Requirements](assets/AssignmentRequiremen
 4. Formatted output generation
 5. Division Structure
 6. MOVE, COMPUTE, DISPLAY, UNTIL statements
-** 7. Program was build entirely in the mainframe without IDE support
+7. ** Program was build entirely in the mainframe without IDE support **
 
 ## Maintainers
 [@bstearns07](https://github.com/bstearns07) Ben Stearns
